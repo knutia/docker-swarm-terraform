@@ -23,4 +23,4 @@ pie title What Voldemort doesn't have?
          "NOSE" : 45
 ```
 
-![Screenshot](img/demo.svg)
+![Screenshot](img/demo.drawio.svg)
