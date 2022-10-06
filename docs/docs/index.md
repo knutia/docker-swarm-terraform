@@ -22,3 +22,5 @@ pie title What Voldemort doesn't have?
          "FAMILY" : 3
          "NOSE" : 45
 ```
+
+![Screenshot](img/demo.svg)
